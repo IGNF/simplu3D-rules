@@ -17,7 +17,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<geoxygene.version>1.10-SNAPSHOT</geoxygene.version>
-		<jackson.version>2.9.10.5</jackson.version>
+		<jackson.version>2.9.10.7</jackson.version>
 		<jackson.datatype.jts.version>2.4</jackson.datatype.jts.version>
 		<junit.version>4.13.1</junit.version>
 	</properties>
